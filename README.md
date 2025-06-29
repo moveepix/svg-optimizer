@@ -2,7 +2,7 @@
 
 A powerful, browser-based SVG optimization tool that reduces file sizes while maintaining visual quality. Built with React and powered by SVGO, this tool runs entirely in your browser - no server uploads required.
 
-![SVG Optimizer Screenshot](https://lucent-longma-de1f8c.netlify.app/)
+**[Preview Netfily APP](https://lucent-longma-de1f8c.netlify.app/)**
 
 ## ✨ Features
 
